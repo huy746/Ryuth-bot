@@ -26,7 +26,7 @@ Command [!]
 ```bash
 !coin
 ```
-Shash
+Slash
 [/]
 ```bash
 /server
