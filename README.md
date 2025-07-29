@@ -1,5 +1,6 @@
 # Ryuth
 [Invite to Discord🤖]
+[![Discord](https://discordapp.com/api/guilds/305129477627969547/embed.png)](https://discord.gg/FaY4ZARfDp)
 
 ### Website
 ```bash
