@@ -1,5 +1,4 @@
 # Ryuth
-[Invite to Discord🤖]
 [![Discord](https://discordapp.com/api/guilds/305129477627969547/embed.png)](https://discord.gg/FaY4ZARfDp)
 
 ### Website
@@ -43,7 +42,6 @@ Support Channel[Discord server][discord].
 
 [discord]: 
 https://discord.gg/FaY4ZARfDp
-[Invite to Discord🤖]: https://discord.com/oauth2/authorize?client_id=1338702593911816275
 [Source code]: https://github.com/huy746/Ryuth-Code.git
 
 
