@@ -39,10 +39,12 @@ Support Channel[Discord server][discord].
 
 [Source code]
 
+[Docs]
 [Invite to Discord]:https://discord.com/api/oauth2/authorize?client_id=1338702593911816275&permissions=2048&scope=bot
 [discord]: 
 https://discord.gg/FaY4ZARfDp
 [Source code]: https://github.com/huy746/Ryuth-Code.git
+[Docs]:https://github.com/huy746/Docs-Ryuth.git
 
 
 
