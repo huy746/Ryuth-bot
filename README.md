@@ -18,22 +18,16 @@ git clone https://github.com/huy746/ryuth-app-discord-123.git
 
 Command [!]
 
-```bash
-!hello
+`!hello`
 
-```
+`bank`
 
-```bash
-!coin
-```
 Slash
 [/]
-```bash
-/server
-```
-```bash
-/work
-```
+
+`/item`
+
+`/work`
 ### Help
 Support Channel[Discord server][discord].
 
