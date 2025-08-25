@@ -1,4 +1,8 @@
-# Ryuth
+<a href="https://top.gg/bot/1409340811770069102">
+  <img src="https://top.gg/api/widget/1409340811770069102.svg">
+</a>
+
+# Ruyth
 [![Discord](https://discordapp.com/api/guilds/305129477627969547/embed.png)](https://discord.gg/FaY4ZARfDp)
 [Invite to Discord]
 ### Website
