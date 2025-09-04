@@ -1,5 +1,5 @@
 <a href="https://top.gg/bot/1409340811770069102">
-  <img src="https://top.gg/api/widget/1409340811770069102.svg">
+  <img src="https://top.gg/api/widget/servers/1409340811770069102.svg?noavatar=true">
 </a>
 
 # Ruyth
