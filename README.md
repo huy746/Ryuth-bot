@@ -1,7 +1,7 @@
 ![Level](https://repository-images.githubusercontent.com/311585905/1f120980-5e81-11eb-9182-f7951d8b52d5)
+### ⬆️ Level System
 
 
-# Ruyth
 [![Discord](https://discordapp.com/api/guilds/305129477627969547/embed.png)](https://discord.gg/FaY4ZARfDp)
 [Invite to Discord]
 ### Website
