@@ -1,6 +1,5 @@
-<a href="https://top.gg/bot/1409340811770069102">
-  <img src="https://top.gg/api/widget/servers/1409340811770069102.svg?noavatar=true">
-</a>
+![Level](https://repository-images.githubusercontent.com/311585905/1f120980-5e81-11eb-9182-f7951d8b52d5)
+
 
 # Ruyth
 [![Discord](https://discordapp.com/api/guilds/305129477627969547/embed.png)](https://discord.gg/FaY4ZARfDp)
